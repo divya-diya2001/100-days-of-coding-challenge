@@ -12,3 +12,5 @@ for testing purpose
 5. [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](apple.md)
 
 6. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/hour.md)
+
+7.[Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/timestamp.md)
