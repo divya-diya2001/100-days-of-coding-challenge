@@ -13,4 +13,4 @@ for testing purpose
 
 6. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?
 
-The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).](hour.md)
+The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/hour.md)
