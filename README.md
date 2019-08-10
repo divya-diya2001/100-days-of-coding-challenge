@@ -10,3 +10,7 @@ for testing purpose
 4. [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/previous%20next.md)
 
 5. [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](apple.md)
+
+6. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?
+
+The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).](hour.md)
