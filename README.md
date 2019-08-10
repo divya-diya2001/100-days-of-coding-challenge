@@ -7,4 +7,4 @@ for testing purpose
 
 3. [Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.](hello.md)
 
-4. [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](previous next.md)
+4. [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/previous%20next.md)
