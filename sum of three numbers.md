@@ -11,8 +11,12 @@ Example output
 
 ```
 
-This program reads two numbers and prints their sum:
+```
+# Reading the input
 a = int(input())
 b = int(input())
 c = int(input())
+# print the sum
 print(a + b + c)
+
+```
