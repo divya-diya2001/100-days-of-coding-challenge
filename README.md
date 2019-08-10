@@ -11,6 +11,4 @@ for testing purpose
 
 5. [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](apple.md)
 
-6. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?
-
-The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/hour.md)
+6. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/hour.md)
