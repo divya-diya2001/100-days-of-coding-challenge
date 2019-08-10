@@ -8,9 +8,11 @@ Example output
 Hello, Harry!
 
 ```
-
+```
+# Reading a string
 a = ("Hello, ")
 b = input()
+# printing a statement
 print(a + b +"!")
 
 
