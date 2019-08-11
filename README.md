@@ -34,7 +34,7 @@ for testing purpose
 
 15. [Write a program that receives a number on the input.
 If the number is a multiple of 3, it prints "Jugs". 
-Otherwise, it prints the number.](https://github.com/divya-     diya2001/100-days-of-coding-challenge/blob/master/jugs%20for%20three) 
+Otherwise, it prints the number.](github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugs%20for%20three) 
     
 16. [Read two inputs. 
   The first input is a digit. 
