@@ -1,4 +1,4 @@
-# 100-days-of-coding-challenge
+# 100-days-of-coding-challenge 2.0
 for testing purpose
 
 1. [Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/area%20of%20triangle.md)
@@ -42,12 +42,5 @@ Otherwise, it prints the number.](github.com/divya-diya2001/100-days-of-coding-c
   Is the digit present in the number? If yes, return True.
   If no, return False.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/digit%20in%20num.md)
   
-17. [Write a program that receives a number on the input.
-If the number is a multiple of 3, it prints "Jugs". 
-If the number is a multiple of 5, it prints "Mugs".
-If the number is a multiple of 7, it prints "Pugs".
-
-If the number is a multiple of both 3 and 5, it prints "JugsMugs".
-If the number is a multiple of both 3 and 7, it prints "JugsPugs".
-If the number is a multiple of both 5 and 7, it prints "MugsPugs".
-If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugsmugspugs.md)
+17. [Write a program that receives a number on the input If the number is a multiple of 3, it prints "Jugs" If the number is a multiple of 5, it prints "Mugs" If the number is a multiple of 7, it prints "Pugs" If the number is a multiple of both 3 and 5, it prints "JugsMugs" If the number is a multiple of both 3 and 7, it prints "JugsPugs" If the number is a multiple of both 5 and 7, it prints "MugsPugs" If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".]
+(https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugsmugspugs.md)
