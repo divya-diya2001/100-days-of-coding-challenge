@@ -25,3 +25,9 @@ for testing purpose
 12. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/leap%20year.md)
 
 [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/days%20in%20a%20month.md)
+
+[Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+Otherwise, it prints the number.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/mugs%20in%20five)
