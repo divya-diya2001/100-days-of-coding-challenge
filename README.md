@@ -46,9 +46,7 @@ Otherwise, it prints the number.](github.com/divya-diya2001/100-days-of-coding-c
 If the number is a multiple of 3, it prints "Jugs". 
 If the number is a multiple of 5, it prints "Mugs".
 If the number is a multiple of 7, it prints "Pugs".
-
 If the number is a multiple of both 3 and 5, it prints "JugsMugs".
 If the number is a multiple of both 3 and 7, it prints "JugsPugs".
 If the number is a multiple of both 5 and 7, it prints "MugsPugs".
-If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".]
-(https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugsmugspugs.md)
+If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugsmugspugs.md)
