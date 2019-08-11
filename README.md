@@ -17,4 +17,4 @@ for testing purpose
 
 8. [Write a program to calculate the distance between two points.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/distance.md)
 
-9. [Given a three-digit number. Find the sum of its digits.](sum of digit.md)
+9. [Given a three-digit number. Find the sum of its digits.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/sum%20of%20digit)
