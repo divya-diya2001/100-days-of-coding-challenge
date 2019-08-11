@@ -32,8 +32,7 @@ for testing purpose
   If the number is a multiple of both 3 and 5, it prints "JugsMugs".
   Otherwise, it prints the number.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/mugs%20in%20five)
 
-15. [Write a program that receives a number on the input.
-    If the number is a multiple of 3, it prints "Jugs".](https://github.com/divya-diya2001/100-days-of-coding-                      challenge/blob/master/jugs%20for%20three) 
+15. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs".](https://github.com/divya-     diya2001/100-days-of-coding-challenge/blob/master/jugs%20for%20three) 
     
 16. [Read two inputs. 
   The first input is a digit. 
