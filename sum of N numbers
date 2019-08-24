@@ -1,22 +1,6 @@
 ## N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.
 
 ```
-# Read an integer:
-a = int(input())
-b =[]
-for i in range(1,a+1):
-  c = int(input())
-  b.append(c)
-b = sum(b)
-# Print a value:
-print(b)
-
-```
-
-
-
-
-```
 Example input
 10
 1
@@ -34,4 +18,10 @@ Example input
 ```
 Example output
 13
+
+```
+```
+Example output
+13
+
 ```
