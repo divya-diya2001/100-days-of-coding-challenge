@@ -25,3 +25,18 @@ Example output
 13
 
 ```
+```
+# Read an integer:
+a = int(input())
+b =[]
+for i in range(1,a+1):
+  c = int(input())
+  b.append(c)
+b = sum(b)
+  
+# Print a value:
+# print(a)
+print(b)
+
+
+```
