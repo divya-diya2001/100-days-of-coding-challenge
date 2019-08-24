@@ -50,3 +50,4 @@ If the number is a multiple of both 3 and 5, it prints "JugsMugs".
 If the number is a multiple of both 3 and 7, it prints "JugsPugs".
 If the number is a multiple of both 5 and 7, it prints "MugsPugs".
 If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugsmugspugs.md)
+18. [N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/sum%20of%20N%20numbers)
