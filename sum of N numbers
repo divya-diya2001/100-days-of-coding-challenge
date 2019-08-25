@@ -1,4 +1,5 @@
 ## N numbers are given in the input. Read them and print their sum.
+
 ```
 # Read an integer:
 a = int(input())
