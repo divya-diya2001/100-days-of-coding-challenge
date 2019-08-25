@@ -52,10 +52,9 @@ If the number is a multiple of both 5 and 7, it prints "MugsPugs".
 If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/jugsmugspugs.md)
 18. [N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](https://github.com/divya-diya2001/100-days-of-coding-challenge/blob/master/sum%20of%20N%20numbers)
 19. [Write a program that receives a number on the input.
-
-  - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
-  - If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
-  - If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+- If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+- If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+- If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
 Otherwise, it prints the number.
 SPECIAL REQUIREMENT: 
 Try and limit the number of conditional statements to not more than 4. 
